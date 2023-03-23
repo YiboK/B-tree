@@ -1,4 +1,4 @@
-# B-tree
+# B+tree
 
 Java implementation of B+ tree
 

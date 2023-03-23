@@ -1,0 +1,37 @@
+2
+insert 321114981 Michael Scott Management RR 21 25
+insert 321114982 Michael Scott Management RR 21 26
+insert 321114983 Michael Scott Management RR 21 27
+insert 321114984 Jack Ryan Law FR 18 28
+delete 115987938
+search 320874981
+search 455798411
+insert 321114985 Michael Scott Management RR 21 29
+insert 321114986 Michael Scott Management RR 21 30
+insert 321114987 Michael Scott Management RR 21 31
+insert 321114993 Michael Scott Management RR 21 32
+insert 321114994 Michael Scott Management RR 21 33
+insert 321114995 Michael Scott Management RR 21 34
+insert 321114996 Michael Scott Management RR 21 35
+insert 321114997 Michael Scott Management RR 21 36
+insert 321114998 Michael Scott Management RR 21 37
+insert 321114999 Michael Scott Management RR 21 38
+insert 321115000 Michael Scott Management RR 21 39
+insert 321115001 Michael Scott Management RR 21 40
+insert 321115002 Michael Scott Management RR 21 41
+insert 321115003 Michael Scott Management RR 21 42
+insert 321115004 Michael Scott Management RR 21 43
+insert 321114988 Michael Scott Management RR 21 44
+insert 321114989 Michael Scott Management RR 21 45
+insert 321114990 Michael Scott Management RR 21 46
+insert 321114991 Michael Scott Management RR 21 47
+print
+delete 321114991
+delete 321114998
+print
+insert 321114992 Michael Scott Management RR 21 48
+search 321114992
+delete 321115001
+delete 321115000
+delete 321115003
+print
